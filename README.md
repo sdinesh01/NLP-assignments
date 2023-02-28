@@ -14,24 +14,16 @@ packages: pandas, numpy, matplotlib, seaborn, spaCy
 Analyze a corpus of news documents to answer the following:
 
 What is the nature of our data?
-  0a. What is the size of the corpus?
-  
-  0b. Are there any duplicates in the corpus? If so, drop them. -- source, title, text
+1. What is the size of the corpus?
+2. Are there any duplicates in the corpus? If so, drop them. -- source, title, text
+3. Are there any missing values in the corpus?
+4. How many unique documents are there in the corpus?
+ 
+What is the distribution of tokens per document?
+1. What is the longest article?
+2. What is the shortest article?
+3. What is the 95th percentile of article lengths?
 
-  0c. Are there any missing values in the corpus?
-  
-  0d. How many unique documents are there in the corpus?
-  
- What is the distribution of tokens per document?
-
-  1a. What is the longest article?
-  
-  1b. What is the shortest article?
-  
-  1c. What is the 95th percentile of article lengths?
-  
 How many different sources are there in the corpus?
-
-  2a. How many different sources are there in the dataset?
-  
-  2b. What is the distribution of articles per source?
+1. How many different sources are there in the dataset?
+2. What is the distribution of articles per source?
