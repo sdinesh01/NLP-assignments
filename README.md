@@ -15,14 +15,23 @@ Analyze a corpus of news documents to answer the following:
 
 0. What is the nature of our data?
   0a. What is the size of the corpus?
+  
   0b. Are there any duplicates in the corpus? If so, drop them. -- source, title, text
 
   0c. Are there any missing values in the corpus?
+  
   0d. How many unique documents are there in the corpus?
+  
 1. What is the distribution of tokens per document?
+
   1a. What is the longest article?
+  
   1b. What is the shortest article?
+  
   1c. What is the 95th percentile of article lengths?
+  
 2. How many different sources are there in the corpus?
+
   2a. How many different sources are there in the dataset?
+  
   2b. What is the distribution of articles per source?
