@@ -11,6 +11,7 @@ packages: requests, re, beautifulsoup4, nltk, pandas, numpy, matplotlib, sklearn
 
 ### Exploratory Data Analysis 3/6
 packages: pandas, numpy, matplotlib, seaborn, spaCy
+
 Analyze a corpus of news documents to answer the following:
 
 What is the nature of our data?
