@@ -28,3 +28,8 @@ What is the distribution of tokens per document?
 How many different sources are there in the corpus?
 1. How many different sources are there in the dataset?
 2. What is the distribution of articles per source?
+
+### Naive Bayes 3/24
+packages: spacy, nltk, pandas, numpy, seaborn, sklearn
+Train a Naive Bayes model on the [Sentiment Analysis on Movie Reviews](https://www.kaggle.com/competitions/sentiment-analysis-on-movie-reviews/overview). The   dataset contains 15,000 movie reviews
+  - objectives: feature engineering, training Naive Bayes models, evaluating model performance, exploring model limitations.
