@@ -41,3 +41,10 @@ Train a Naive Bayes model on the [Sentiment Analysis on Movie Reviews](https://w
  Train two logistic regression models on the [IMDB Movie Review Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). One model is trained on noun and adjectivial phrases and the other on verb and adverbial phrases. Compare the performance of both models. 
  - objectives: feature engineering, logistic regression training, performance evaluation, analysis.
  
+### Word Embeddings 4/18
+packages: numpy, pandas, spacy, gensim (doc2vec/word2vec)
+Objectives: 
+1. Implement a semantic search engine using word embeddings.
+2. Use pre-trained word embedding models.
+3. Map documents to vectors using word embeddings.
+4. Discover how cosine similarity can be used to cluster documents.
